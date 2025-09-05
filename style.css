@@ -1,0 +1,63 @@
+body {
+  margin: 0px;
+  background-color: tomato;
+}
+
+* {
+  font-family: sans-serif;
+  box-sizing: border-box;
+}
+
+nav {
+  color: white;
+  background-color: tomato;
+}
+
+section {
+  text-transform: uppercase;
+}
+
+.background-image {
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+}
+
+.tomato-vine {
+  background-image: url("./images/tomato-vine.jpg");
+}
+
+.tomato-cu {
+  background-image: url("./images/tomato-cu.jpg");
+}
+
+.chopping-board {
+  background-image: url("./images/chopping-board.jpg");
+}
+
+.cta {
+  height: 200px;
+  width: 400px;
+  position: absolute;
+  background-color: white;
+  bottom: 150px;
+  left: 50px;
+  padding-left: 20px;
+}
+
+h2 {
+  color: tomato;
+  font-weight: normal;
+  font-size: 18px;
+}
+
+h3 {
+  color: tomato;
+  font-weight: bold;
+  font-size: 36px;
+}
+
+footer {
+  text-align: center;
+  color: white;
+}
