@@ -27,7 +27,7 @@ nav {
   text-transform: uppercase;
   gap: 30px;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 15px;
 }
 
 section {
@@ -87,6 +87,29 @@ button {
   font-weight: bold;
   letter-spacing: 1px;
   border: solid white 2px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  padding-left: 40px;
+  padding-right: 40px;
+}
+
+button:hover {
+  background-color: white;
+  color: black;
+  border: solid tomato 2px;
+}
+
+a {
+  color: white;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:visited {
+  text-decoration: none;
 }
 
 footer {
