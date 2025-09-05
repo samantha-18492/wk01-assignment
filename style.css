@@ -8,9 +8,22 @@ body {
   box-sizing: border-box;
 }
 
-nav {
+header {
   color: white;
-  background-color: tomato;
+  display: flex;
+  padding: 40px;
+  align-items: center;
+  /* position: fixed; */
+  height: 120px;
+  justify-content: space-between;
+}
+
+nav {
+  display: flex;
+  text-transform: uppercase;
+  gap: 30px;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 section {
@@ -39,8 +52,8 @@ section {
   height: 200px;
   width: 400px;
   position: absolute;
-  background-color: rgb(255, 255, 255, 0.85);
-  fill-opacity: 20%;
+  background-color: rgb(255, 255, 255, 0.75);
+  /* fill-opacity: 20%; */
   bottom: 150px;
   left: 50px;
   padding-left: 20px;
@@ -61,6 +74,15 @@ h3 {
   font-size: 36px;
   margin-block-start: 0px;
   margin-block-end: 0px;
+}
+
+button {
+  background-color: green;
+  color: white;
+  text-transform: uppercase;
+  font-weight: bold;
+  letter-spacing: 1px;
+  border: solid white 2px;
 }
 
 footer {
