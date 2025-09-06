@@ -44,27 +44,27 @@ section {
   background-image: url("./images/tomato-vine.jpg");
 }
 
-.tomato-cu {
-  background-image: url("./images/tomato-cu.jpg");
-}
-
 .chopping-board {
   background-image: url("./images/chopping-board.jpg");
 }
 
+.tote-bag {
+  background-image: url("./images/tote-bag.jpg");
+}
 .cta {
-  height: 200px;
   width: 400px;
+  display: flex;
+  flex-direction: column;
   position: absolute;
   background-color: rgb(255, 255, 255, 0.75);
-  bottom: 150px;
+  bottom: 90px;
   left: 50px;
-  padding-left: 20px;
-  padding-top: 20px;
+  padding: 20px;
+  gap: 20px;
+  color: tomato;
 }
 
 h2 {
-  color: tomato;
   font-weight: normal;
   font-size: 18px;
   margin-block-start: 0px;
@@ -72,7 +72,6 @@ h2 {
 }
 
 h3 {
-  color: tomato;
   font-weight: bold;
   font-size: 36px;
   margin-block-start: 0px;
@@ -86,10 +85,9 @@ button {
   font-weight: bold;
   letter-spacing: 1px;
   border: solid white 2px;
-  padding-top: 20px;
-  padding-bottom: 20px;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding: 20px;
+  max-width: 200px;
+  cursor: pointer;
 }
 
 button:hover {
