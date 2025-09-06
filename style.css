@@ -52,7 +52,6 @@ section {
   background-image: url("./images/tote-bag.jpg");
 }
 .cta {
-  /* width: 400px; */
   display: flex;
   flex-direction: column;
   position: absolute;

@@ -15,8 +15,9 @@ Reflections:
 - more revision needed to gain confidence with using positioning and z-index values
 - adjusting settings via the elements dev tool proved to be invaluable
 
-Photo acknowledgements:
+Acknowledgements:
 
 - tomato-vine.jpg by Markus Spiske on Unsplash
-- chopping-board by Geo Darwin on Unsplash
-- tote-bag by Freepik
+- chopping-board.jpg by Geo Darwin on Unsplash
+- tote-bag.jpg by Freepik
+- cooking.mp3 by BackgroundMusicForVideos on Pixabay
