@@ -7,7 +7,7 @@ Requirements achieved:
 - CSS flexbox
 - image elements added as background decorative images instead of using the img tag (as recommended)
 - hover effect on buttons
-- background music that plays automatically (sorry!)
+- background music (sorry!) using the autoplay property (may not autoplay in browser due to browser settings). have kept the controls visible so you can turn on/off manually, but would preferably use the hidden property so it's not visible on webpage.
 
 Reflections:
 
