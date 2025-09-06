@@ -7,7 +7,7 @@ Requirements achieved:
 - CSS flexbox
 - image elements added as background decorative images instead of using the img tag (as recommended)
 - hover effect on buttons
-- background music that plays automatically and hidden (sorry!)
+- background music that plays automatically (sorry!)
 
 Reflections:
 
